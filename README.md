@@ -1,6 +1,6 @@
 # 🌳 Árbol de Decisión: Predicción de Oferta Móvil
 
-Este repositorio contiene la presentación ejecutiva sobre la construcción y aplicación del algoritmo **ID3** para predecir la aceptación de un plan de datos móviles en el sector de telecomunicaciones.
+Este repositorio contiene la presentación ejecutiva sobre la construcción y aplicación del algoritmo para predecir la aceptación de un plan de datos móviles en el sector de telecomunicaciones.
 
 ---
 
